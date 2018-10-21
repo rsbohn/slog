@@ -1,1 +1,14 @@
-theme: jekyll-theme-hacker
+title: The Effective Slogan
+email: rsbohn@gmail.com
+twitter_username: rsbohn
+github_username: rsbohn
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed
+
+exclude:
+- Gemfile
+- Gemfile.lock
+- funcs
+- buttermilk

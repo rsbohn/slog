@@ -11,4 +11,4 @@ This is a series of mini-episodes set in the NetHack universe.
 
 CC BY NC SA
 
-[Creative Commons Attribution, NonComercial, ShareAlike 4.0 International License] (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[Creative Commons Attribution, NonComercial, ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

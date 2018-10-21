@@ -1,0 +1,2 @@
+# jekyll: is a docker volume that holds the Gems
+alias build='docker run -it --rm -v jekyll:/usr/local/bundle -v /work/roguelike/slog:/srv/jekyll jekyll/jekyll:3.8 jekyll build'
