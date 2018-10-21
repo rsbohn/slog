@@ -2,6 +2,9 @@
 
 Jonny runs 'The Effective Slogan,' a shop on one of the quieter levels.
 
+    . . @ ! m . .
+    . ? * ! * ? .
+
 This is a series of mini-episodes set in the NetHack universe.
 
 ## License
